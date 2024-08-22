@@ -1,0 +1,15 @@
+{
+    "name": "mbnot/steen-web",
+    "type": "project",
+    "require": {
+        "slim/slim": "^4.14",
+        "slim/php-view": "^3.3",
+        "slim/psr7": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mbnot\\SteenWeb\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
