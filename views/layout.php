@@ -13,7 +13,7 @@
     <header>
         <nav class="navbar navbar-expand-lg navbar-light">
             <div class="container">
-                <a class="navbar-brand" href="#">Steen Web</a>
+                <a class="navbar-brand" href="#">Steen</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -42,7 +42,7 @@
     <!-- Footer -->
     <footer class="py-4">
         <div class="container text-center">
-            <p class="mb-0">© 2024 Steen-Web. all rights reserved</p>
+            <p class="mb-0">© 2024 steen. all rights reserved</p>
         </div>
     </footer>
 

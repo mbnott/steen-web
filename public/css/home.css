@@ -1,7 +1,11 @@
 /* Couleur de fond du site */
 body {
-    background-color: #241F2B;
-    color: #FFFFFF; /* Texte principal en blanc */
+    background: linear-gradient(135deg, #28185f, #070116);
+    color: #FFFFFF; /* Texte blanc pour bien contraster avec le fond sombre */
+    font-family: Arial, sans-serif; /* Exemple de police, modifiable selon vos préférences */
+    margin: 0;
+    padding: 0;
+    min-height: 100vh; /* S'assure que le background couvre toute la hauteur de la page */
 }
 
 
