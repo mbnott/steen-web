@@ -9,14 +9,14 @@
  * V1
  */
 
-namespace mbnot\steenWeb\controllers;
+namespace Mbnot\SteenWeb\controllers;
 
-use mbnot\steenWeb\Controllers\BaseController;
-use mbnot\steenWeb\Models\ApiManager;
+use Mbnot\SteenWeb\Controllers\baseController;
+use Mbnot\SteenWeb\Models\ApiManager;
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
 
-class IndexController extends BaseController
+class indexController extends baseController
 {
     /**
      * @param Request $request 
