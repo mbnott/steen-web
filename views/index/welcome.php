@@ -1,28 +1,31 @@
-    <!-- Hero Section -->
-    <div class="container my-5">
-        <div class="row align-items-center">
-            <div class="col-lg-6">
-                <h1 class="display-4">Bienvenue sur Steen-Web</h1>
-                <p class="lead">Découvrez tous les projets du CFPT en un seul endroit.</p>
-                <a href="#" class="btn btn-primary btn-lg">Voir les projets</a>
-            </div>
-            <div class="col-lg-6">
-                <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Image d'accueil">
-            </div>
+<div class="container mt-4">
+    <div class="d-flex justify-content-between">
+        <input type="text" class="form-control w-25" placeholder="Search">
+        <div>
+            <a href="#" class="mx-2">Categories</a>
+            <a href="#" class="mx-2">Browse</a>
+            <a href="#" class="mx-2">Discover</a>
         </div>
     </div>
 
-    <!-- Projects Section -->
+    <div class="container mt-4">
+        <h1>Highlighted Game & Software</h1>
+        <div class="d-flex" style="height: 400px;">
+            <div class="col-lg-6 bg-secondary"></div>
+            <div class="col-lg-6 bg-dark"></div>
+        </div>
+    </div>
+    
     <div class="container my-5">
-        <h2 class="text-center mb-4">Nos Projets</h2>
+        <h2>Games</h2>
         <div class="row">
             <div class="col-md-4">
                 <div class="card mb-4">
                     <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Projet 1">
                     <div class="card-body">
-                        <h5 class="card-title">Projet 1</h5>
-                        <p class="card-text">Description du projet 1.</p>
-                        <a href="#" class="btn btn-primary">Voir plus</a>
+                        <h5 class="card-title">MarioPatern</h5>
+                        <p class="card-text">i create for fun, because i like Mario.</p>
+                        <a href="#" class="btn btn-primary">See more</a>
                     </div>
                 </div>
             </div>
@@ -30,9 +33,9 @@
                 <div class="card mb-4">
                     <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Projet 2">
                     <div class="card-body">
-                        <h5 class="card-title">Projet 2</h5>
-                        <p class="card-text">Description du projet 2.</p>
-                        <a href="#" class="btn btn-primary">Voir plus</a>
+                        <h5 class="card-title">OsuMonsu</h5>
+                        <p class="card-text">Poiter Click</p>
+                        <a href="#" class="btn btn-primary">See more</a>
                     </div>
                 </div>
             </div>
@@ -40,11 +43,51 @@
                 <div class="card mb-4">
                     <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Projet 3">
                     <div class="card-body">
-                        <h5 class="card-title">Projet 3</h5>
-                        <p class="card-text">Description du projet 3.</p>
-                        <a href="#" class="btn btn-primary">Voir plus</a>
+                        <h5 class="card-title">League of Noob</h5>
+                        <p class="card-text">Moba collab league of legends</p>
+                        <a href="#" class="btn btn-primary">See more</a>
                     </div>
                 </div>
             </div>
         </div>
+        <a href="#" class="btn btn-primary">See more Games</a>
     </div>
+
+    <!-- Cartes de Projets -->
+    <div class="container my-5">
+        <h2>Software</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Projet 1">
+                    <div class="card-body">
+                        <h5 class="card-title">AddKeyBing</h5>
+                        <p class="card-text">is a software u can add keybind like a macro</p>
+                        <a href="#" class="btn btn-primary">See more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Projet 2">
+                    <div class="card-body">
+                        <h5 class="card-title">Letal Composte</h5>
+                        <p class="card-text">I don't know any more</p>
+                        <a href="#" class="btn btn-primary">See more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Projet 3">
+                    <div class="card-body">
+                        <h5 class="card-title">Software 3</h5>
+                        <p class="card-text">Description of software.</p>
+                        <a href="#" class="btn btn-primary">See more</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a href="#" class="btn btn-primary">See more Software</a>
+    </div>
+</div>
