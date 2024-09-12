@@ -9,11 +9,11 @@
  * V1
  */
 
-namespace mbnot\steenWeb\controllers;
+namespace Mbnot\SteenWeb\controllers;
 
 use Slim\Views\PhpRenderer;
 
-class BaseController
+class baseController
 {
     protected PhpRenderer $views;
 

@@ -11,11 +11,11 @@
 
 declare(strict_types=1);
 
-namespace mbnot\steenWeb\models;
+namespace Mbnot\SteenWeb\models;
 
 use PDOException;
 
-class ApiManager
+class apiManager
 {
     
 }
