@@ -9,7 +9,7 @@
  * V1
  */
 
-namespace mbnot\steen-web\controllers;
+namespace mbnot\steenWeb\controllers;
 
 use Slim\Views\PhpRenderer;
 
