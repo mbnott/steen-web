@@ -9,10 +9,10 @@
  * V1
  */
 
-namespace mbnot\steen-web\controllers;
+namespace mbnot\steenWeb\controllers;
 
-use mbnot\steen-web\Controllers\BaseController;
-use mbnot\steen-web\Models\ApiManager;
+use mbnot\steenWeb\Controllers\BaseController;
+use mbnot\steenWeb\Models\ApiManager;
 use Psr\Http\Message\ResponseInterface as Response;
 use Psr\Http\Message\ServerRequestInterface as Request;
 

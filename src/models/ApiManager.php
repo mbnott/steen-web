@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-namespace mbnot\steen-web\models;
+namespace mbnot\steenWeb\models;
 
 use PDOException;
 
