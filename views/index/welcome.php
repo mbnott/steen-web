@@ -1,13 +1,4 @@
 <div class="container mt-4">
-    <div class="d-flex justify-content-between">
-        <input type="text" class="form-control w-25" placeholder="Search">
-        <div>
-            <a href="#" class="mx-2">Categories</a>
-            <a href="#" class="mx-2">Browse</a>
-            <a href="#" class="mx-2">Discover</a>
-        </div>
-    </div>
-
     <div class="container mt-4">
         <h1>Highlighted Game & Software</h1>
         <div class="d-flex" style="height: 400px;">
