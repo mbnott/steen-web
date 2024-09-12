@@ -1,0 +1,74 @@
+/* Couleur de fond du site */
+body {
+    background-color: #241F2B;
+    color: #FFFFFF; /* Texte principal en blanc */
+}
+
+
+/* Style de la navbar */
+.navbar-light {
+    background-color: #5A05D6; /* Couleur de fond de la navbar */
+}
+
+.navbar-brand {
+    font-size: 1.8rem;
+    color: #FFFFFF; /* Couleur de la marque dans la navbar */
+}
+
+.nav-link {
+    color: #FFFFFF; /* Liens dans la navbar */
+}
+
+.nav-link:hover {
+    color: #944FFF; /* Liens en hover */
+}
+
+.navbar-toggler {
+    border-color: #944FFF; /* Bouton mobile (hamburger) */
+}
+
+.navbar-toggler-icon {
+    background-color: #FFFFFF;
+}
+
+/* Style des cartes (cards) */
+.card {
+    background-color: #0F0F0F; /* Fond des cartes */
+    color: #FFFFFF; /* Couleur du texte des cartes */
+    border: none;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    color: #944FFF; /* Titre des cartes en violet */
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #FFFFFF;
+}
+
+/* Boutons */
+.btn-primary {
+    background-color: #5A05D6; /* Couleur des boutons */
+    border-color: #5A05D6;
+}
+
+.btn-primary:hover {
+    background-color: #944FFF; /* Changement de couleur en hover */
+    border-color: #944FFF;
+}
+
+/* Pied de page (footer) */
+footer {
+    background-color: #0F0F0F; /* Fond du footer */
+    color: #FFFFFF;
+}
+
+footer a {
+    color: #944FFF; /* Liens dans le footer */
+}
+
+footer a:hover {
+    color: #5A05D6;
+}
