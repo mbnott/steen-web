@@ -1,6 +1,6 @@
 /* Couleur de fond du site */
 body {
-    background: linear-gradient(135deg, #28185f, #070116);
+    background: linear-gradient(134deg, #2d134e, #1e0d35, #0e061a, #030107, #000000);
     color: #FFFFFF; /* Texte blanc pour bien contraster avec le fond sombre */
     font-family: Arial, sans-serif; /* Exemple de police, modifiable selon vos préférences */
     margin: 0;
@@ -8,18 +8,8 @@ body {
     min-height: 100vh; /* S'assure que le background couvre toute la hauteur de la page */
 }
 
-
-/* Style de la navbar */
-.navbar-light {
-    background-color: #5A05D6; /* Couleur de fond de la navbar */
-}
-
-.navbar-brand {
-    font-size: 1.8rem;
-    color: #FFFFFF; /* Couleur de la marque dans la navbar */
-}
-
 .nav-link {
+    font-size: 1.2rem;
     color: #FFFFFF; /* Liens dans la navbar */
 }
 
