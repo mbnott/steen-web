@@ -2,4 +2,7 @@
 global $app;
 require '../vendor/autoload.php';
 
-use Mbnot\SteenApi\controllers\indexController;
+use Mbnot\SteenWeb\controllers\indexController;
+
+// page Home
+$app->get('/', [indexController::class, 'welcome']);
