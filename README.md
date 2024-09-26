@@ -2,12 +2,10 @@
 A Web interface to view everything about steen from its [API](https://github.com/mbnott/steen-api).
 
 ## Links
-Steen Rest API: [steen-api]
-
-## Pages
+Steen Rest API: [steen-api](https://github.com/mbnott/steen-api)
 
 # Deployment
-This is a small guide on how to setup steen-api on a local ubuntu machine/WSL. Must have admin rights.
+This is a small guide on how to setup steen-web on a local ubuntu machine/WSL. Must have admin rights.
 1. Download Apache and PHP:
 ```sh
 sudo apt install apache2 apache2-doc php8.3 php8.3-cli^
