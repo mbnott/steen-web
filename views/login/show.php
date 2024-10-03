@@ -1,5 +1,5 @@
 <!-- Login Section -->
-<div class="container d-flex justify-content-center align-items-center" style="min-height: 80vh;">
+<div class="container my-2 d-flex justify-content-center align-items-center" style="min-height: 80.8vh;">
     <div class="col-lg-5 col-md-8">
         <div class="card shadow-lg p-4">
             <h3 class="text-center mb-4 text-white">Login</h3>
