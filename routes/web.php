@@ -1,5 +1,6 @@
 <?php
-global $app;
+
+$app;
 require '../vendor/autoload.php';
 
 use Mbnot\SteenWeb\controllers\indexController;
