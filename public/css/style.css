@@ -25,11 +25,21 @@ body {
     background-color: #FFFFFF;
 }
 
+/* Barre de recherche */
+.search-bar input {
+    width: 100%;
+    background-color: #0F0F0F;
+    color: #FFFFFF;
+    border: 2px solid #5A05D6;
+    padding: 10px;
+}
+
 /* Style des cartes (cards) */
 .card {
-    background-color: #0F0F0F; /* Fond des cartes */
-    color: #FFFFFF; /* Couleur du texte des cartes */
+    background-color: #0F0F0F;
+    color: #FFFFFF;
     border: none;
+    margin-bottom: 20px;
 }
 
 .card-title {
@@ -40,6 +50,15 @@ body {
 .card-text {
     font-size: 1rem;
     color: #FFFFFF;
+}
+
+.card-footer {
+    background-color: #0F0F0F;
+    border-top: 1px solid #944FFF;
+}
+
+.date-release {
+    color: #5A05D6;
 }
 
 /* Boutons */
